@@ -3,7 +3,7 @@ package Practise_Questions.Day1_OOPs;
 Q3. PhysicalProduct vs DigitalProduct
 
 - Common behavior: getPrice(), deliver()
-- Use abstract class for shared state + behavior
+- Use abstract class for shared state and behavior
 */
 
 abstract class Product {
